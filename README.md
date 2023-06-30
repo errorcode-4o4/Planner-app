@@ -1,4 +1,4 @@
-#The custom-made News Widget
+## The custom-made News Widget
 
 The custom-made News Widget is a valuable addition to the Planner App due to its ability to provide users with up-to-date news information directly within the app. This widget enhances the user experience by offering a convenient way to stay informed without having to switch between different applications or websites.
 
@@ -10,6 +10,11 @@ In summary, the News Widget is an appropriate addition to the Planner App as it 
 
 
 ## Available Scripts To Setup This Project
+
+### `npx create-react-app planner-app`
+### `cd planner-app`
+### `npm install react-calendar react-draggable`
+
 
 In the project directory, you can run:
 
